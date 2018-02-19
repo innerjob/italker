@@ -1,0 +1,6 @@
+git tag相关操作
+-git tag
+-git tag -a tag_name -m 'tag描述'
+-git checkout tag_name    切换到对应的tag,
+-git branch 查看所有分支
+-git checkout -b tag_name 修改某个分支内容
