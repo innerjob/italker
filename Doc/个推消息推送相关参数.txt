@@ -1,0 +1,11 @@
+官网：http://www.getui.com/cn/index.html
+包名：net.qiujuer.italker.push 
+客户端和服务器的密钥
+AppID： 
+J8Ph1kxTfkAQ5Tlq3CMCm1
+AppSecret： 
+pRhI7dhQLH7W9Yt4YCrqRA
+AppKey： 
+FNeKFfSPEb7mNyRnMLYkH8
+MasterSecret： 
+3aomdSGFCk5DcHAZFTWmN
